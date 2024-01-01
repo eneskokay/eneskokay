@@ -1,3 +1,4 @@
-## About me
-
-I'm a selft taught progremmer and life lifelong learner. I'm mostly working on frontend applications including mobile and web apps. My Biggest goal is having a signifficant contribution on my field.
+- 👋 Hi, I'm Enes. I'm from Istanbul/Türkiye
+- 🛠️ I'm currently working as a Frontend and Mobile Developer
+- 🎯 My biggest goal is to make a significant contribution to my field
+- 🏋 My biggest responsibility is working with my teammates collaboratively and kindly
